@@ -24,7 +24,8 @@ This Learning Hub is structured week-by-week, following the official internship 
 - **Theory:** Neural network architectures, activation functions, backpropagation  
 - **Practice:** PyTorch & TensorFlow, training loop, GPU usage  
 - **Project:** CNN-based image classifier (e.g., MNIST or CIFAR-10)  
-📂 Folder: [`/week01_deep_learning`](./week01_deep_learning)
+📂 Folder: [`/week01_deep_learning`](./week01_deep_learning)  
+📄 [Week 1 Notes & Code](./week01_deep_learning/README.md)
 
 ---
 
@@ -32,7 +33,8 @@ This Learning Hub is structured week-by-week, following the official internship 
 - **Theory:** CNNs (VGG, ResNet), Vision Transformers  
 - **Practice:** OpenCV, image preprocessing pipelines  
 - **Project:** Basic object detection app using pre-trained model  
-📂 Folder: [`/week02_computer_vision`](./week02_computer_vision)
+📂 Folder: [`/week02_computer_vision`](./week02_computer_vision)  
+📄 [Week 2 Notes & Code](./week02_computer_vision/README.md)
 
 ---
 
@@ -40,7 +42,8 @@ This Learning Hub is structured week-by-week, following the official internship 
 - **Theory:** Word2Vec, attention mechanism  
 - **Practice:** NLTK, spaCy, Transformers  
 - **Project:** Text sentiment classifier  
-📂 Folder: [`/week03_nlp`](./week03_nlp)
+📂 Folder: [`/week03_nlp`](./week03_nlp)  
+📄 [Week 3 Notes & Code](./week03_nlp/README.md)
 
 ---
 
@@ -48,7 +51,8 @@ This Learning Hub is structured week-by-week, following the official internship 
 - **Theory:** Transformer architecture, self-attention  
 - **Practice:** Hugging Face Transformers, tokenizers  
 - **Project:** Fine-tune a pre-trained language model  
-📂 Folder: [`/week04_transformers_llms`](./week04_transformers_llms)
+📂 Folder: [`/week04_transformers_llms`](./week04_transformers_llms)  
+📄 [Week 4 Notes & Code](./week04_transformers_llms/README.md)
 
 ---
 
@@ -56,14 +60,16 @@ This Learning Hub is structured week-by-week, following the official internship 
 - **Theory:** GANs, VAEs, diffusion models  
 - **Practice:** PyTorch implementations of basic generative models  
 - **Project:** Simple image generation  
-📂 Folder: [`/week05_generative_ai`](./week05_generative_ai)
+📂 Folder: [`/week05_generative_ai`](./week05_generative_ai)  
+📄 [Week 5 Notes & Code](./week05_generative_ai/README.md)
 
 ---
 
 ### 🚀 Week 6 - Final Project Week
 - **Activity:** Combine concepts into a team-based AI project  
 - **Deliverables:** Project code, report, presentation  
-📂 Folder: [`/week06_final_project`](./week06_final_project)
+📂 Folder: [`/week06_final_project`](./week06_final_project)  
+📄 [Week 6 Notes & Code](./week06_final_project/README.md)
 
 ---
 
