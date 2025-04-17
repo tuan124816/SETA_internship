@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# dataset
+/dataset/
+/week01_deep_learning/dataset/
+/week02_computer_vision/dataset/
+/week03_nlp/dataset/
+/week04_transformers_llms/dataset/
+/week05_generative_ai/dataset/
+/week06_final_project/dataset/
