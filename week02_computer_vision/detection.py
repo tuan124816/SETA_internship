@@ -4,7 +4,7 @@ from ultralytics import YOLO
 from PIL import Image
 import cv2
 
-model = YOLO('best_coco.pt')
+model = YOLO('best_coco.pt')        # use best_coco.pt
 
 def process_image(image_path):
     """
