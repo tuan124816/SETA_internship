@@ -1,16 +1,29 @@
 # 🖼️ Week 2: Computer Vision
 
-## 🧠 Topics Covered
-- CNN architectures (VGG, ResNet)
-- Vision Transformers (ViT)
-- Image representation and understanding
+A simple web application using Flask and YOLOv8 to detect objects in uploaded images. The processed image will display bounding boxes around detected objects.
 
-## 🛠️ Engineering Practice
-- OpenCV for image handling
-- Image preprocessing techniques
+## Features
 
-## 📌 Project
-Basic object detection application using pre-trained models
+- Upload an image via a web interface
+- Detect objects using YOLOv8
+- Show processed image with bounding boxes
+- Automatically cleans up old files to save space
+
+## Requirements
+
+- Python 3.11.2
+- See `requirements.txt` for all dependencies
+
+Install them using:
+
+```bash
+pip install -r requirements.txt
+```
+## Usage
+Run the app: 
+```bash 
+python app.py
+```
 
 ## 📂 Folder Structure
 
